@@ -1,0 +1,11 @@
+/home/tbuckley/Projects/rust-learning-projects/ch3/fileresult/target/rls/debug/deps/getrandom-7b721ec67375dc1a.rmeta: /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/lib.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error_impls.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util_libc.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/use_file.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/linux_android.rs
+
+/home/tbuckley/Projects/rust-learning-projects/ch3/fileresult/target/rls/debug/deps/getrandom-7b721ec67375dc1a.d: /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/lib.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error_impls.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util_libc.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/use_file.rs /home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/linux_android.rs
+
+/home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/lib.rs:
+/home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error.rs:
+/home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util.rs:
+/home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error_impls.rs:
+/home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util_libc.rs:
+/home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/use_file.rs:
+/home/tbuckley/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/linux_android.rs:
